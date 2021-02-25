@@ -1,0 +1,21 @@
+body {
+  background-image: url("../images/homepage.jpg");
+  background-color: #fcc89f;
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 1000;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: lighter;
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+}
